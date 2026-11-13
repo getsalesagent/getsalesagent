@@ -6,6 +6,8 @@ We build tools for enterprise sellers.
 
 **Sales Agent** is account research and territory intelligence with an agent built in. It maps every account in a territory, finds the buying committee at each one, and shows which seats nobody has met yet. It runs on the seller's own Mac, with the seller's own data and AI accounts.
 
+**Built to stay on your work computer.** Sales Agent runs entirely on your Mac: your accounts, contacts, notes and conversations stay on your computer, and nothing you keep in it is ever sent back to Sales Agent. The Agent uses the AI your company already provides, such as your company's Claude, Amazon Bedrock, Google Vertex AI or Microsoft Foundry account. Before you install, please check with your people leader to make sure they are comfortable with you using this productivity tool.
+
 - [Download Sales Agent for Mac](https://github.com/getsalesagent/sales-agent-releases/releases/latest) (Apple Silicon, macOS 14 or later; a license key is needed)
 - [getsalesagent.ai](https://getsalesagent.ai)
 - Support: [support@getsalesagent.ai](mailto:support@getsalesagent.ai)
