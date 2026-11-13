@@ -9,3 +9,5 @@ We build tools for enterprise sellers.
 - [Download Sales Agent for Mac](https://github.com/getsalesagent/sales-agent-releases/releases/latest) (Apple Silicon, macOS 14 or later; a license key is needed)
 - [getsalesagent.ai](https://getsalesagent.ai)
 - Support: [support@getsalesagent.ai](mailto:support@getsalesagent.ai)
+
+Sales Agent is developed and owned by Derek Trimm.
